@@ -3,7 +3,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/bucharest-gold/szero-grunt/badge.svg)](https://coveralls.io/github/bucharest-gold/szero-grunt)
 [![Build Status](https://travis-ci.org/bucharest-gold/szero-grunt.svg?branch=master)](https://travis-ci.org/bucharest-gold/szero-grunt)
 [![Known Vulnerabilities](https://snyk.io/test/npm/szero/badge.svg)](https://snyk.io/test/npm/szero)
-[![dependencies Status](https://david-dm.org/bucharest-gold/szero-grunt/status.svg)](https://david-dm.org/bucharest-gold/szero-grunt)
+[![dependencies Status](https://david-dm.org/bucharest-gold/szero-grunt/status.png)](https://david-dm.org/bucharest-gold/szero-grunt)
 
 [![NPM](https://nodei.co/npm/szero-grunt.png)](https://npmjs.org/package/szero-grunt)
 
